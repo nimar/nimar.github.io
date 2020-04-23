@@ -7,6 +7,8 @@ padding:0;
 vertical-align:baseline;
 }
 
+strong { font-weight: bold; }
+
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
@@ -120,6 +122,7 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
+        font-weight: normal;
 }
 
 .sectionTitle h1 {
